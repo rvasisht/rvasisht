@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rvasisht
-- 👀 I’m interested in cybersecrurity, Penetration testing, and threat hunting.
+- 👀 I’m interested in cloud operations, System Administration and Cyber security.
 - 🌱 I’m currently learning python, shell scripting and linux administration.
 
 <!---
